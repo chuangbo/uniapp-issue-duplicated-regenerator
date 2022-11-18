@@ -8,6 +8,9 @@
 </template>
 
 <script>
+    import asyncFunction from "../../async-function";
+    import normalFunction from "../../normal-function";
+
 	export default {
 		data() {
 			return {
